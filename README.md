@@ -1,0 +1,47 @@
+# Membuat Projek Film
+### Cara Instalasi Buka terminal & jalankan perintah dibawah
+
+1. git clone
+```bash
+git clone https://github.com/haempebe/MKK_Backend.git
+```
+2. copy .env.example menjadi .env
+```bash
+cp .env.example .env
+```
+3. setelah git clone masuk kedalam file dengan perintah cd
+```bash
+cd MKK_Backend
+```
+4. Composer install
+```bash
+composer install
+```
+5. npm install
+```bash
+npm install
+```
+6. npm run dev
+```bash
+npm run dev
+```
+7. npm install
+```bash
+npm install
+```
+8. npm run build
+```bash
+npm run build
+```
+9. php artisan migrate --seed
+```bash
+php artisan migrate --seed
+```
+10. php artisan key:generate
+```bash
+php artisan key:generate
+```
+11. php artisan serve
+```bash
+php artisan serve
+```
